@@ -1,4 +1,6 @@
 libv8-dev
+libjq-dev
+libprotobuf-dev
 libudunits2-dev
 libgdal-dev
 proj-bin
